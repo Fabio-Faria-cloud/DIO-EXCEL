@@ -14,10 +14,9 @@ Tecnologias
 
 Arquivos
 - `Simulador_Investimentos.xlsx`: planilha com todos os cálculos.
-- `/images`: capturas de tela explicando o uso.
 
 Screenshots
-![Imagem da planilha](images/exemplo.png)
+!(images/exemplo.png)
 
 Como usar
 1. Faça o download da planilha.
