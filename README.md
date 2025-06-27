@@ -15,9 +15,6 @@ Tecnologias
 Arquivos
 - `Simulador_Investimentos.xlsx`: planilha com todos os cálculos.
 
-Screenshots
-!(images/exemplo.png)
-
 Como usar
 1. Faça o download da planilha.
 2. Abra no Excel.
